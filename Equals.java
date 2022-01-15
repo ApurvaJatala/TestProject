@@ -1,3 +1,4 @@
+gkjygkjkjgkjhkj
 package apu;
 
 public class Equals 
